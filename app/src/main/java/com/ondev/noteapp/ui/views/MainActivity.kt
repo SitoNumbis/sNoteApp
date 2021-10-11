@@ -38,11 +38,6 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun ShowNoteCard() {
 
-    NoteCard(
-        title = "kfjekwef",
-        message = "JEFJergerg reg erg ergerg er ge rg erg erg er g erg erg er g erg erg er ge rg erg er gerg er ge rg    erg erg re ger greg re greg erg erg erg ewfwefwefefwefwefwefwefE"
-    )
-
 }
 
 @Preview(showBackground = true)

@@ -8,8 +8,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.ondev.noteapp.SharedViewModel
-import com.ondev.noteapp.ui.views.InputForm
-import com.ondev.noteapp.ui.views.NoteList
 
 @Composable
 fun NoteApp(
